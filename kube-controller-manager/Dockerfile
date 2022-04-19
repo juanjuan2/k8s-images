@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-controller-manager:v1.23.5
+FROM k8s.gcr.io/kube-controller-manager:v1.23.5
