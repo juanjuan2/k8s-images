@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/pause:3.6
+FROM k8s.gcr.io/pause:3.6
